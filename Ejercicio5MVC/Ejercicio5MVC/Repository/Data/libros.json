@@ -1,0 +1,20 @@
+[
+  {
+    "Titulo": "qwe",
+    "Autor": "asd",
+    "ISBN": "123",
+    "Disponible": false
+  },
+  {
+    "Titulo": "qwe",
+    "Autor": "qwe",
+    "ISBN": "123",
+    "Disponible": false
+  },
+  {
+    "Titulo": "HOLA",
+    "Autor": "JAJA",
+    "ISBN": "80",
+    "Disponible": true
+  }
+]
